@@ -607,7 +607,7 @@ But patches are welcome.
 
 See [CONTRIBUTING.md](http://github.com/makdon/grpc-gateway/blob/main/CONTRIBUTING.md).
 
-## License
+## License 
 
 gRPC-Gateway is licensed under the BSD 3-Clause License.
 See [LICENSE](https://github.com/makdon/grpc-gateway/blob/main/LICENSE) for more details.
